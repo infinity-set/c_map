@@ -10,7 +10,7 @@ This project is designed to be beginner-friendly, offering junior developers a h
 
 One interesting aspect of this script is the introduction of iterators, a concept widely used in programming languages like Python and Java. In C, iterators are implemented using function pointers and provide a way to iterate through data structures like maps.
 
-Additionally, you'll notice the use of "->" notation in C, which is used instead of dot notation in Python (Ex: `map.get(self, "example_key", -1)`). This notation is specific to C and is used to access members of a structure or a pointer to a structure. Understanding this syntax is essential for junior developers transitioning to C from languages that use dot notation for similar purposes.
+Additionally, you'll notice the use of "->" notation in C, which is used instead of dot notation in Python (Example: `map.get(self, "example_key", -1)`). This notation is specific to C and is used to access members of a structure or a pointer to a structure. Understanding this syntax is essential for junior developers transitioning to C from languages that use dot notation for similar purposes.
 
 This introduces junior developers to the idea of encapsulation and abstraction, even in languages that have different syntax conventions. It lays the foundation for a better understanding of language-specific nuances in programming.
 
@@ -183,13 +183,13 @@ Feel free to explore and modify the code according to your needs.
 
  <div align="center">
 <br/>
-<img src="https://github.com/infinity-set/pylst/assets/142350896/dcfc08e5-59c3-46c8-a5d3-ac15549b0ca2" height="100%" width="100%" alt="Main function code displayed in C"/>
+<img src="https://github.com/infinity-set/c_map/assets/142350896/cb42356a-987a-4c2d-81f7-aafae91789f7" height="100%" width="100%" alt="Main function code displayed in C"/>
 <br />   
  </div>
 
  <div align="center">
 <br/>
-<img src="https://github.com/infinity-set/pylst/assets/142350896/8d99d582-8eb5-4c18-bebf-a391a9d9e64c" height="100%" width="100%" alt="Output of the execution displayed."/>
+<img src="https://github.com/infinity-set/c_map/assets/142350896/65c19cd6-b14a-416c-8f2b-4528151f531d" height="100%" width="100%" alt="Output of the execution displayed."/>
 <br />   
  </div>
 
