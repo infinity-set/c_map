@@ -44,13 +44,6 @@ Before using this C program, ensure that you have the following:
 
 - A C compiler installed on your system.
 - Basic understanding of C programming, including linked lists and memory allocation concepts.
-
-## Prerequisites
-
-Before using this C program, ensure that you have the following:
-
-- A C compiler installed on your system.
-- Basic understanding of C programming, including linked lists and memory allocation concepts.
 - Review: - [Python Dictionary Class Implementation in C](https://github.com/infinity-set/pydict)
 
 ## Languages and Utilities Used
@@ -184,7 +177,7 @@ Before using this C program, ensure that you have the following:
 
 ### Usage
 
-The `main` function in the provided C code demonstrates the creation, appending, printing, and deletion of the map (`Map`).
+The `main` function in the provided C code demonstrates the creation, appending, printing, deletion, and iteration of the map (`Map`).
 
 Feel free to explore and modify the code according to your needs.
 
